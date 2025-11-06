@@ -8,6 +8,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/yuviiios/striver_step_0/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/yuviiios/striver_step_0/tree/master/0152-maximum-product-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -16,4 +17,5 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/yuviiios/striver_step_0/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/yuviiios/striver_step_0/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
