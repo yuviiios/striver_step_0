@@ -10,11 +10,13 @@ public:
                 res[ind--]=nums[i]*nums[i];
                 i++;
             }
+
             else {
                 res[ind--]=nums[j]*nums[j];
                 j--;
             }
-        }  
+        }
         return res;
+        
     }
 };
