@@ -7,6 +7,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yuviiios/striver_step_0/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/yuviiios/striver_step_0/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/yuviiios/striver_step_0/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/yuviiios/striver_step_0/tree/master/0018-4sum) |
@@ -29,6 +30,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yuviiios/striver_step_0/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/yuviiios/striver_step_0/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/yuviiios/striver_step_0/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/yuviiios/striver_step_0/tree/master/0018-4sum) |
@@ -53,4 +55,8 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yuviiios/striver_step_0/tree/master/2149-rearrange-array-elements-by-sign) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/yuviiios/striver_step_0/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
