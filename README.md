@@ -12,6 +12,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | [0016-3sum-closest](https://github.com/yuviiios/striver_step_0/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/yuviiios/striver_step_0/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/yuviiios/striver_step_0/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/yuviiios/striver_step_0/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yuviiios/striver_step_0/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/yuviiios/striver_step_0/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/yuviiios/striver_step_0/tree/master/0152-maximum-product-subarray) |
@@ -54,9 +55,14 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/yuviiios/striver_step_0/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yuviiios/striver_step_0/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yuviiios/striver_step_0/tree/master/0011-container-with-most-water) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/yuviiios/striver_step_0/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
