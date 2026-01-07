@@ -11,6 +11,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | [0015-3sum](https://github.com/yuviiios/striver_step_0/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/yuviiios/striver_step_0/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/yuviiios/striver_step_0/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/yuviiios/striver_step_0/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/yuviiios/striver_step_0/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/yuviiios/striver_step_0/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yuviiios/striver_step_0/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -26,6 +27,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/yuviiios/striver_step_0/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/yuviiios/striver_step_0/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/yuviiios/striver_step_0/tree/master/0152-maximum-product-subarray) |
 ## Two Pointers
@@ -35,6 +37,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | [0015-3sum](https://github.com/yuviiios/striver_step_0/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/yuviiios/striver_step_0/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/yuviiios/striver_step_0/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/yuviiios/striver_step_0/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yuviiios/striver_step_0/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/yuviiios/striver_step_0/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuviiios/striver_step_0/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -65,4 +68,12 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/yuviiios/striver_step_0/tree/master/0054-spiral-matrix) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/yuviiios/striver_step_0/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/yuviiios/striver_step_0/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
