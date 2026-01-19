@@ -23,6 +23,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | [0152-maximum-product-subarray](https://github.com/yuviiios/striver_step_0/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yuviiios/striver_step_0/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuviiios/striver_step_0/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0540-single-element-in-a-sorted-array](https://github.com/yuviiios/striver_step_0/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/yuviiios/striver_step_0/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/yuviiios/striver_step_0/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yuviiios/striver_step_0/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -58,6 +59,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yuviiios/striver_step_0/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yuviiios/striver_step_0/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuviiios/striver_step_0/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0540-single-element-in-a-sorted-array](https://github.com/yuviiios/striver_step_0/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/yuviiios/striver_step_0/tree/master/0704-binary-search) |
 ## Sorting
 |  |
