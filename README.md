@@ -22,6 +22,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | [0088-merge-sorted-array](https://github.com/yuviiios/striver_step_0/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/yuviiios/striver_step_0/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yuviiios/striver_step_0/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/yuviiios/striver_step_0/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuviiios/striver_step_0/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yuviiios/striver_step_0/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/yuviiios/striver_step_0/tree/master/0704-binary-search) |
@@ -58,6 +59,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | [0035-search-insert-position](https://github.com/yuviiios/striver_step_0/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yuviiios/striver_step_0/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yuviiios/striver_step_0/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/yuviiios/striver_step_0/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuviiios/striver_step_0/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yuviiios/striver_step_0/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/yuviiios/striver_step_0/tree/master/0704-binary-search) |
