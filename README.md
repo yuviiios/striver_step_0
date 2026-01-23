@@ -29,6 +29,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | [0852-peak-index-in-a-mountain-array](https://github.com/yuviiios/striver_step_0/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/yuviiios/striver_step_0/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yuviiios/striver_step_0/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2951-find-the-peaks](https://github.com/yuviiios/striver_step_0/tree/master/2951-find-the-peaks) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -94,4 +95,8 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yuviiios/striver_step_0/tree/master/0042-trapping-rain-water) |
+## Enumeration
+|  |
+| ------- |
+| [2951-find-the-peaks](https://github.com/yuviiios/striver_step_0/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->
