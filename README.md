@@ -50,6 +50,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | [0042-trapping-rain-water](https://github.com/yuviiios/striver_step_0/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yuviiios/striver_step_0/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/yuviiios/striver_step_0/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/yuviiios/striver_step_0/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuviiios/striver_step_0/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/yuviiios/striver_step_0/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yuviiios/striver_step_0/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -99,4 +100,12 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 |  |
 | ------- |
 | [2951-find-the-peaks](https://github.com/yuviiios/striver_step_0/tree/master/2951-find-the-peaks) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/yuviiios/striver_step_0/tree/master/0141-linked-list-cycle) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/yuviiios/striver_step_0/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
