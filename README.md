@@ -61,6 +61,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | [0033-search-in-rotated-sorted-array](https://github.com/yuviiios/striver_step_0/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yuviiios/striver_step_0/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/yuviiios/striver_step_0/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/yuviiios/striver_step_0/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yuviiios/striver_step_0/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yuviiios/striver_step_0/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/yuviiios/striver_step_0/tree/master/0162-find-peak-element) |
@@ -110,4 +111,8 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/yuviiios/striver_step_0/tree/master/0141-linked-list-cycle) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/yuviiios/striver_step_0/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
