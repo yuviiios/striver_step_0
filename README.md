@@ -29,6 +29,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | [0852-peak-index-in-a-mountain-array](https://github.com/yuviiios/striver_step_0/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/yuviiios/striver_step_0/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/yuviiios/striver_step_0/tree/master/0977-squares-of-a-sorted-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yuviiios/striver_step_0/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yuviiios/striver_step_0/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2951-find-the-peaks](https://github.com/yuviiios/striver_step_0/tree/master/2951-find-the-peaks) |
 ## Divide and Conquer
@@ -70,6 +71,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | [0704-binary-search](https://github.com/yuviiios/striver_step_0/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yuviiios/striver_step_0/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/yuviiios/striver_step_0/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yuviiios/striver_step_0/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Sorting
 |  |
 | ------- |
