@@ -25,6 +25,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yuviiios/striver_step_0/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/yuviiios/striver_step_0/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuviiios/striver_step_0/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/yuviiios/striver_step_0/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yuviiios/striver_step_0/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/yuviiios/striver_step_0/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yuviiios/striver_step_0/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -38,6 +39,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/yuviiios/striver_step_0/tree/master/0053-maximum-subarray) |
+| [0240-search-a-2d-matrix-ii](https://github.com/yuviiios/striver_step_0/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -70,6 +72,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yuviiios/striver_step_0/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/yuviiios/striver_step_0/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuviiios/striver_step_0/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/yuviiios/striver_step_0/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yuviiios/striver_step_0/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/yuviiios/striver_step_0/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yuviiios/striver_step_0/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -98,6 +101,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | ------- |
 | [0054-spiral-matrix](https://github.com/yuviiios/striver_step_0/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/yuviiios/striver_step_0/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/yuviiios/striver_step_0/tree/master/0240-search-a-2d-matrix-ii) |
 ## Stack
 |  |
 | ------- |
