@@ -1,35 +1,19 @@
 class Solution {
 public:
-         bool binarySearch(vector<int>& nums, int target) {
-        int n=nums.size();
-        int l=0,h=n-1;
-        while(l<=h) {
-            int mid=(l+h)/2;
-            if(nums[mid]==target)return true;
-            else if(target>nums[mid]) {
-                l=mid+1;
+    bool searchMatrix(vector<vector<int>>& matrix, int target) {
+        int n=matrix.size();
+        int m=matrix[0].size();
+        int row=0,col=m-1;
+        while(row<n && col>=0) {
+            if(matrix[row][col]==target)return true;
+            else if(matrix[row][col]<target) {
+                row++;
             }
             else {
-                h=mid-1;
+                col--;
             }
-
         }
 
         return false;
-    }
-
-    
-
-    bool searchMatrix(vector<vector<int>>& matrix, int target) 
-    {
-        int n=matrix.size();
-        for(int i=0;i<n;i++) {
-            // int ind=binarySearch(matrix[i],target); 
-            if(binarySearch(matrix[i],target)) {
-                return true; 
-             } 
-        }
-        return false;
-
     }
 };
