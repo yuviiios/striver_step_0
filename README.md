@@ -33,6 +33,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | [0977-squares-of-a-sorted-array](https://github.com/yuviiios/striver_step_0/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yuviiios/striver_step_0/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yuviiios/striver_step_0/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1901-find-a-peak-element-ii](https://github.com/yuviiios/striver_step_0/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yuviiios/striver_step_0/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2951-find-the-peaks](https://github.com/yuviiios/striver_step_0/tree/master/2951-find-the-peaks) |
 ## Divide and Conquer
@@ -79,6 +80,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | [0875-koko-eating-bananas](https://github.com/yuviiios/striver_step_0/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yuviiios/striver_step_0/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yuviiios/striver_step_0/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1901-find-a-peak-element-ii](https://github.com/yuviiios/striver_step_0/tree/master/1901-find-a-peak-element-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -102,6 +104,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | [0054-spiral-matrix](https://github.com/yuviiios/striver_step_0/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/yuviiios/striver_step_0/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yuviiios/striver_step_0/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/yuviiios/striver_step_0/tree/master/1901-find-a-peak-element-ii) |
 ## Stack
 |  |
 | ------- |
