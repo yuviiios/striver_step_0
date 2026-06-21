@@ -111,6 +111,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yuviiios/striver_step_0/tree/master/0042-trapping-rain-water) |
+| [1021-remove-outermost-parentheses](https://github.com/yuviiios/striver_step_0/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -137,4 +138,5 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/yuviiios/striver_step_0/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/yuviiios/striver_step_0/tree/master/0242-valid-anagram) |
+| [1021-remove-outermost-parentheses](https://github.com/yuviiios/striver_step_0/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
