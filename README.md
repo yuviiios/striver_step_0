@@ -138,5 +138,10 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/yuviiios/striver_step_0/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/yuviiios/striver_step_0/tree/master/0242-valid-anagram) |
+| [0796-rotate-string](https://github.com/yuviiios/striver_step_0/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/yuviiios/striver_step_0/tree/master/1021-remove-outermost-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/yuviiios/striver_step_0/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
