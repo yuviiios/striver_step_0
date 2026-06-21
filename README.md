@@ -100,6 +100,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yuviiios/striver_step_0/tree/master/0011-container-with-most-water) |
+| [1903-largest-odd-number-in-string](https://github.com/yuviiios/striver_step_0/tree/master/1903-largest-odd-number-in-string) |
 ## Matrix
 |  |
 | ------- |
@@ -133,6 +134,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/yuviiios/striver_step_0/tree/master/0069-sqrtx) |
+| [1903-largest-odd-number-in-string](https://github.com/yuviiios/striver_step_0/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
@@ -140,6 +142,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | [0242-valid-anagram](https://github.com/yuviiios/striver_step_0/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/yuviiios/striver_step_0/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/yuviiios/striver_step_0/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/yuviiios/striver_step_0/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
 |  |
 | ------- |
