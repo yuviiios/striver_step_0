@@ -8,6 +8,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yuviiios/striver_step_0/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/yuviiios/striver_step_0/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/yuviiios/striver_step_0/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/yuviiios/striver_step_0/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/yuviiios/striver_step_0/tree/master/0018-4sum) |
@@ -141,6 +142,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/yuviiios/striver_step_0/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/yuviiios/striver_step_0/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/yuviiios/striver_step_0/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/yuviiios/striver_step_0/tree/master/0242-valid-anagram) |
@@ -152,4 +154,8 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/yuviiios/striver_step_0/tree/master/0796-rotate-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/yuviiios/striver_step_0/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
