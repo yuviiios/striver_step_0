@@ -95,6 +95,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/yuviiios/striver_step_0/tree/master/0054-spiral-matrix) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/yuviiios/striver_step_0/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yuviiios/striver_step_0/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
@@ -113,6 +114,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yuviiios/striver_step_0/tree/master/0042-trapping-rain-water) |
 | [1021-remove-outermost-parentheses](https://github.com/yuviiios/striver_step_0/tree/master/1021-remove-outermost-parentheses) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/yuviiios/striver_step_0/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -143,6 +145,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | [0796-rotate-string](https://github.com/yuviiios/striver_step_0/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/yuviiios/striver_step_0/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/yuviiios/striver_step_0/tree/master/1903-largest-odd-number-in-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/yuviiios/striver_step_0/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## String Matching
 |  |
 | ------- |
