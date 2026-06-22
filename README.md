@@ -112,6 +112,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/yuviiios/striver_step_0/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/yuviiios/striver_step_0/tree/master/0042-trapping-rain-water) |
 | [1021-remove-outermost-parentheses](https://github.com/yuviiios/striver_step_0/tree/master/1021-remove-outermost-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/yuviiios/striver_step_0/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -140,6 +141,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/yuviiios/striver_step_0/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/yuviiios/striver_step_0/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/yuviiios/striver_step_0/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/yuviiios/striver_step_0/tree/master/0796-rotate-string) |
