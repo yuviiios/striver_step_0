@@ -102,6 +102,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yuviiios/striver_step_0/tree/master/0011-container-with-most-water) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/yuviiios/striver_step_0/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/yuviiios/striver_step_0/tree/master/1903-largest-odd-number-in-string) |
 ## Matrix
 |  |
@@ -115,6 +116,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | ------- |
 | [0020-valid-parentheses](https://github.com/yuviiios/striver_step_0/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/yuviiios/striver_step_0/tree/master/0042-trapping-rain-water) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/yuviiios/striver_step_0/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/yuviiios/striver_step_0/tree/master/1021-remove-outermost-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/yuviiios/striver_step_0/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
@@ -147,6 +149,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | [0151-reverse-words-in-a-string](https://github.com/yuviiios/striver_step_0/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/yuviiios/striver_step_0/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/yuviiios/striver_step_0/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/yuviiios/striver_step_0/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/yuviiios/striver_step_0/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/yuviiios/striver_step_0/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/yuviiios/striver_step_0/tree/master/1910-remove-all-occurrences-of-a-substring) |
