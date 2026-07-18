@@ -28,6 +28,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuviiios/striver_step_0/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/yuviiios/striver_step_0/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yuviiios/striver_step_0/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/yuviiios/striver_step_0/tree/master/0347-top-k-frequent-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yuviiios/striver_step_0/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/yuviiios/striver_step_0/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yuviiios/striver_step_0/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -43,6 +44,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | ------- |
 | [0053-maximum-subarray](https://github.com/yuviiios/striver_step_0/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yuviiios/striver_step_0/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/yuviiios/striver_step_0/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -93,6 +95,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | [0088-merge-sorted-array](https://github.com/yuviiios/striver_step_0/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/yuviiios/striver_step_0/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yuviiios/striver_step_0/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/yuviiios/striver_step_0/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/yuviiios/striver_step_0/tree/master/0977-squares-of-a-sorted-array) |
 ## Simulation
 |  |
@@ -135,6 +138,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | [0141-linked-list-cycle](https://github.com/yuviiios/striver_step_0/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/yuviiios/striver_step_0/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yuviiios/striver_step_0/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/yuviiios/striver_step_0/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/yuviiios/striver_step_0/tree/master/0387-first-unique-character-in-a-string) |
 ## Linked List
 |  |
@@ -173,5 +177,18 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/yuviiios/striver_step_0/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/yuviiios/striver_step_0/tree/master/0387-first-unique-character-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/yuviiios/striver_step_0/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/yuviiios/striver_step_0/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/yuviiios/striver_step_0/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
