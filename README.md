@@ -150,6 +150,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | [0069-sqrtx](https://github.com/yuviiios/striver_step_0/tree/master/0069-sqrtx) |
 | [0507-perfect-number](https://github.com/yuviiios/striver_step_0/tree/master/0507-perfect-number) |
 | [1903-largest-odd-number-in-string](https://github.com/yuviiios/striver_step_0/tree/master/1903-largest-odd-number-in-string) |
+| [3099-harshad-number](https://github.com/yuviiios/striver_step_0/tree/master/3099-harshad-number) |
 ## String
 |  |
 | ------- |
