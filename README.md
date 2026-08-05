@@ -131,6 +131,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 ## Enumeration
 |  |
 | ------- |
+| [2427-number-of-common-factors](https://github.com/yuviiios/striver_step_0/tree/master/2427-number-of-common-factors) |
 | [2951-find-the-peaks](https://github.com/yuviiios/striver_step_0/tree/master/2951-find-the-peaks) |
 ## Hash Table
 |  |
@@ -150,6 +151,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | [0069-sqrtx](https://github.com/yuviiios/striver_step_0/tree/master/0069-sqrtx) |
 | [0507-perfect-number](https://github.com/yuviiios/striver_step_0/tree/master/0507-perfect-number) |
 | [1903-largest-odd-number-in-string](https://github.com/yuviiios/striver_step_0/tree/master/1903-largest-odd-number-in-string) |
+| [2427-number-of-common-factors](https://github.com/yuviiios/striver_step_0/tree/master/2427-number-of-common-factors) |
 | [3099-harshad-number](https://github.com/yuviiios/striver_step_0/tree/master/3099-harshad-number) |
 ## String
 |  |
@@ -193,4 +195,16 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/yuviiios/striver_step_0/tree/master/0347-top-k-frequent-elements) |
+## Number Theory
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/yuviiios/striver_step_0/tree/master/2427-number-of-common-factors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/yuviiios/striver_step_0/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/yuviiios/striver_step_0/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
