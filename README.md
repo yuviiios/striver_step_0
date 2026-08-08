@@ -39,6 +39,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | [1901-find-a-peak-element-ii](https://github.com/yuviiios/striver_step_0/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yuviiios/striver_step_0/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2951-find-the-peaks](https://github.com/yuviiios/striver_step_0/tree/master/2951-find-the-peaks) |
+| [3731-find-missing-elements](https://github.com/yuviiios/striver_step_0/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -97,6 +98,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | [0242-valid-anagram](https://github.com/yuviiios/striver_step_0/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/yuviiios/striver_step_0/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/yuviiios/striver_step_0/tree/master/0977-squares-of-a-sorted-array) |
+| [3731-find-missing-elements](https://github.com/yuviiios/striver_step_0/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -141,6 +143,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | [0242-valid-anagram](https://github.com/yuviiios/striver_step_0/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/yuviiios/striver_step_0/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/yuviiios/striver_step_0/tree/master/0387-first-unique-character-in-a-string) |
+| [3731-find-missing-elements](https://github.com/yuviiios/striver_step_0/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
 | ------- |
