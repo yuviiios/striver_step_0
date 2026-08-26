@@ -98,6 +98,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | [0217-contains-duplicate](https://github.com/yuviiios/striver_step_0/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yuviiios/striver_step_0/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/yuviiios/striver_step_0/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/yuviiios/striver_step_0/tree/master/0451-sort-characters-by-frequency) |
 | [0977-squares-of-a-sorted-array](https://github.com/yuviiios/striver_step_0/tree/master/0977-squares-of-a-sorted-array) |
 | [3731-find-missing-elements](https://github.com/yuviiios/striver_step_0/tree/master/3731-find-missing-elements) |
 ## Simulation
@@ -144,6 +145,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | [0242-valid-anagram](https://github.com/yuviiios/striver_step_0/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/yuviiios/striver_step_0/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/yuviiios/striver_step_0/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/yuviiios/striver_step_0/tree/master/0451-sort-characters-by-frequency) |
 | [3731-find-missing-elements](https://github.com/yuviiios/striver_step_0/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
@@ -166,6 +168,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | [0151-reverse-words-in-a-string](https://github.com/yuviiios/striver_step_0/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/yuviiios/striver_step_0/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/yuviiios/striver_step_0/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/yuviiios/striver_step_0/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/yuviiios/striver_step_0/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yuviiios/striver_step_0/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/yuviiios/striver_step_0/tree/master/1021-remove-outermost-parentheses) |
@@ -188,14 +191,17 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/yuviiios/striver_step_0/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/yuviiios/striver_step_0/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/yuviiios/striver_step_0/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/yuviiios/striver_step_0/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/yuviiios/striver_step_0/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/yuviiios/striver_step_0/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/yuviiios/striver_step_0/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
 |  |
 | ------- |
