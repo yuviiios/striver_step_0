@@ -16,6 +16,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yuviiios/striver_step_0/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/yuviiios/striver_step_0/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/yuviiios/striver_step_0/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/yuviiios/striver_step_0/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/yuviiios/striver_step_0/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/yuviiios/striver_step_0/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/yuviiios/striver_step_0/tree/master/0074-search-a-2d-matrix) |
@@ -94,6 +95,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | [0015-3sum](https://github.com/yuviiios/striver_step_0/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/yuviiios/striver_step_0/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/yuviiios/striver_step_0/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/yuviiios/striver_step_0/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/yuviiios/striver_step_0/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/yuviiios/striver_step_0/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yuviiios/striver_step_0/tree/master/0242-valid-anagram) |
@@ -140,6 +142,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/yuviiios/striver_step_0/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/yuviiios/striver_step_0/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/yuviiios/striver_step_0/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yuviiios/striver_step_0/tree/master/0242-valid-anagram) |
@@ -164,6 +167,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | ------- |
 | [0014-longest-common-prefix](https://github.com/yuviiios/striver_step_0/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/yuviiios/striver_step_0/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/yuviiios/striver_step_0/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/yuviiios/striver_step_0/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/yuviiios/striver_step_0/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/yuviiios/striver_step_0/tree/master/0242-valid-anagram) |
