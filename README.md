@@ -38,6 +38,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yuviiios/striver_step_0/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yuviiios/striver_step_0/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1901-find-a-peak-element-ii](https://github.com/yuviiios/striver_step_0/tree/master/1901-find-a-peak-element-ii) |
+| [1929-concatenation-of-array](https://github.com/yuviiios/striver_step_0/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yuviiios/striver_step_0/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2951-find-the-peaks](https://github.com/yuviiios/striver_step_0/tree/master/2951-find-the-peaks) |
 | [3731-find-missing-elements](https://github.com/yuviiios/striver_step_0/tree/master/3731-find-missing-elements) |
@@ -109,6 +110,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | ------- |
 | [0054-spiral-matrix](https://github.com/yuviiios/striver_step_0/tree/master/0054-spiral-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/yuviiios/striver_step_0/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1929-concatenation-of-array](https://github.com/yuviiios/striver_step_0/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yuviiios/striver_step_0/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
