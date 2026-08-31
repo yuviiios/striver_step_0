@@ -236,5 +236,6 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/yuviiios/striver_step_0/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/yuviiios/striver_step_0/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
