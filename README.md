@@ -43,6 +43,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | [1929-concatenation-of-array](https://github.com/yuviiios/striver_step_0/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yuviiios/striver_step_0/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2951-find-the-peaks](https://github.com/yuviiios/striver_step_0/tree/master/2951-find-the-peaks) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/yuviiios/striver_step_0/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3731-find-missing-elements](https://github.com/yuviiios/striver_step_0/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -158,6 +159,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | [0347-top-k-frequent-elements](https://github.com/yuviiios/striver_step_0/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/yuviiios/striver_step_0/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/yuviiios/striver_step_0/tree/master/0451-sort-characters-by-frequency) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/yuviiios/striver_step_0/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3731-find-missing-elements](https://github.com/yuviiios/striver_step_0/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
@@ -207,6 +209,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | [0347-top-k-frequent-elements](https://github.com/yuviiios/striver_step_0/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/yuviiios/striver_step_0/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/yuviiios/striver_step_0/tree/master/0451-sort-characters-by-frequency) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/yuviiios/striver_step_0/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
