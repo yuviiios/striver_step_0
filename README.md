@@ -33,6 +33,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | [0240-search-a-2d-matrix-ii](https://github.com/yuviiios/striver_step_0/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/yuviiios/striver_step_0/tree/master/0347-top-k-frequent-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yuviiios/striver_step_0/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/yuviiios/striver_step_0/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/yuviiios/striver_step_0/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yuviiios/striver_step_0/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/yuviiios/striver_step_0/tree/master/0875-koko-eating-bananas) |
@@ -109,6 +110,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | [0242-valid-anagram](https://github.com/yuviiios/striver_step_0/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/yuviiios/striver_step_0/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/yuviiios/striver_step_0/tree/master/0451-sort-characters-by-frequency) |
+| [0628-maximum-product-of-three-numbers](https://github.com/yuviiios/striver_step_0/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/yuviiios/striver_step_0/tree/master/0977-squares-of-a-sorted-array) |
 | [3731-find-missing-elements](https://github.com/yuviiios/striver_step_0/tree/master/3731-find-missing-elements) |
 ## Simulation
@@ -170,6 +172,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | ------- |
 | [0069-sqrtx](https://github.com/yuviiios/striver_step_0/tree/master/0069-sqrtx) |
 | [0507-perfect-number](https://github.com/yuviiios/striver_step_0/tree/master/0507-perfect-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/yuviiios/striver_step_0/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/yuviiios/striver_step_0/tree/master/1903-largest-odd-number-in-string) |
 | [2427-number-of-common-factors](https://github.com/yuviiios/striver_step_0/tree/master/2427-number-of-common-factors) |
 | [3099-harshad-number](https://github.com/yuviiios/striver_step_0/tree/master/3099-harshad-number) |
