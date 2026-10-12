@@ -29,6 +29,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yuviiios/striver_step_0/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/yuviiios/striver_step_0/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuviiios/striver_step_0/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/yuviiios/striver_step_0/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/yuviiios/striver_step_0/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yuviiios/striver_step_0/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/yuviiios/striver_step_0/tree/master/0347-top-k-frequent-elements) |
@@ -90,6 +91,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yuviiios/striver_step_0/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/yuviiios/striver_step_0/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuviiios/striver_step_0/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/yuviiios/striver_step_0/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yuviiios/striver_step_0/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yuviiios/striver_step_0/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/yuviiios/striver_step_0/tree/master/0704-binary-search) |
@@ -251,4 +253,12 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/yuviiios/striver_step_0/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/yuviiios/striver_step_0/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/yuviiios/striver_step_0/tree/master/1757-recyclable-and-low-fat-products) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/yuviiios/striver_step_0/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/yuviiios/striver_step_0/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
