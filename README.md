@@ -251,6 +251,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | [0595-big-countries](https://github.com/yuviiios/striver_step_0/tree/master/0595-big-countries) |
 | [1075-project-employees-i](https://github.com/yuviiios/striver_step_0/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/yuviiios/striver_step_0/tree/master/1148-article-views-i) |
+| [1280-students-and-examinations](https://github.com/yuviiios/striver_step_0/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/yuviiios/striver_step_0/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/yuviiios/striver_step_0/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/yuviiios/striver_step_0/tree/master/1757-recyclable-and-low-fat-products) |
