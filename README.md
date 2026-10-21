@@ -252,6 +252,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | [0596-classes-with-at-least-5-students](https://github.com/yuviiios/striver_step_0/tree/master/0596-classes-with-at-least-5-students) |
 | [1068-product-sales-analysis-i](https://github.com/yuviiios/striver_step_0/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/yuviiios/striver_step_0/tree/master/1075-project-employees-i) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/yuviiios/striver_step_0/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/yuviiios/striver_step_0/tree/master/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/yuviiios/striver_step_0/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/yuviiios/striver_step_0/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
