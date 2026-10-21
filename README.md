@@ -257,6 +257,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | [1280-students-and-examinations](https://github.com/yuviiios/striver_step_0/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/yuviiios/striver_step_0/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/yuviiios/striver_step_0/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| [1661-average-time-of-process-per-machine](https://github.com/yuviiios/striver_step_0/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/yuviiios/striver_step_0/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/yuviiios/striver_step_0/tree/master/1757-recyclable-and-low-fat-products) |
 ## Sliding Window
