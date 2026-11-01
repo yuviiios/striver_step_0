@@ -256,6 +256,7 @@ Full of procrastination and laziness but hey atleast I started !!! (lookin at th
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/yuviiios/striver_step_0/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/yuviiios/striver_step_0/tree/master/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/yuviiios/striver_step_0/tree/master/1280-students-and-examinations) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/yuviiios/striver_step_0/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/yuviiios/striver_step_0/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/yuviiios/striver_step_0/tree/master/1484-group-sold-products-by-the-date) |
 | [1517-find-users-with-valid-e-mails](https://github.com/yuviiios/striver_step_0/tree/master/1517-find-users-with-valid-e-mails) |
