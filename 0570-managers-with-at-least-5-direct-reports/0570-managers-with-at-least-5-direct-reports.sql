@@ -4,4 +4,4 @@ from Employee e
 join Employee m
 on e.managerId=m.id
 group by m.id,m.name 
-having count(e.managerID)>=5;
+having count(*)>=5;
